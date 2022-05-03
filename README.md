@@ -6,6 +6,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### JQuery Project - RPG
 [Link to JQuery Project](https://github.com/craigmrock/jquery-project-rpg)
+
+### Concert Venue Java Project
+[Link to Concert Venue Project](https://github.com/craigmrock/concert-venue-project)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
