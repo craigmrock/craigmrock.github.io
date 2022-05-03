@@ -19,6 +19,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Guitar Fretboard with Scale Locations Java Project
 [Link to Guitar Fretboard Project](https://github.com/craigmrock/Guitar-Fretboard-With-Java)
 
+### Angular Music Library with Tuner
+[Link to Angular Project](https://github.com/craigmrock/Angular-Music-Library)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
