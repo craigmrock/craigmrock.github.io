@@ -13,6 +13,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Connect to Neo4j DB with .NET
 [Link to Neo4j .NET Project](https://github.com/craigmrock/Neo4j-with-.NET)
 
+### REST with Javascript Project
+[Link to REST with js Project](https://github.com/craigmrock/REST-JS-Project)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
