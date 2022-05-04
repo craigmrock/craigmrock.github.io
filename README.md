@@ -22,6 +22,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ### Angular Music Library with Tuner
 [Link to Angular Project](https://github.com/craigmrock/Angular-Music-Library)
 
+### Microservices with Java
+[Link ot Microservices Project](https://github.com/craigmrock/Microservices-Java)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
