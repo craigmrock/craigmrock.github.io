@@ -26,4 +26,7 @@ Here is a list of some of my public repos that I am most excited about.
 ### Music Scale Generator with Python
 [Link to Python Program](https://github.com/craigmrock/Music-Scale-Generator-Python)
 
+### Scale Library with .NET
+[Link to .NET Project](https://github.com/craigmrock/ASP.NET-Scale-Library)
+
 
